@@ -9,7 +9,7 @@ Must have python 3, selenium, and pyautogui installed.
 **Install on Windows**
 1. install python 3.8 from the main python website by naviagting to https://www.python.org/downloads/release/python-386/ and using the "windows x86-64 executable installer" and installing like any other windows program.
 
-2. after install open a powershell command prompt and run the following commands to update pip and install selenium/pyautogui
+2. after install open a powershell command prompt and run the following commands to update pip and install selenium/pyautogui <br />
   a. cd .\AppData\Local\Programs\Python\Python38\ <br />
   b. .\python.exe -m pip install --upgrade pip <br />
   c. .\python.exe -m pip install selenium <br />
